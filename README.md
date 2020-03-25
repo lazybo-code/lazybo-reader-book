@@ -1,6 +1,6 @@
-# lazybo-reader-book vue小说阅读器
+# vue翻页小demo
 
-[vue小说阅读器](https://lazybo.com/archives/vue%E5%B0%8F%E8%AF%B4%E9%98%85%E8%AF%BB%E5%99%A8)
+[vue翻页小demo](https://github.com/lazybo-code/lazybo-reader-book)
 
 克隆并运行
 ```base
@@ -12,8 +12,8 @@ yarn serve
 # 标签参数
 |参数|说明|类型|可选值|默认值|
 |-------|-------|-------|-------|-------|
-|title|小说标题|string|—|—|
-|content|小说内容 内容换行作为分割|string|—|—|
+|title|标题|string|—|—|
+|content|内容 内容换行作为分割|string|—|—|
 |clearance|左右间隔|number|—|16|
 |fontSize|字体大小 rem|number|—|1.125|
 |className|新增一个class|string|—|—|
